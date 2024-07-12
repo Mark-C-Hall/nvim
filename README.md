@@ -7,6 +7,6 @@ This repository contains my personal Neovim configuration files.
 Clone the repository to your Neovim configuration directory:
 
 ```sh
-git clone https://xxxxx/neovim-config.git ~/.config/nvim/
+git clone git@gitlab.xcade.net:mark.hall/neovim-config.git ~/.config/nvim/
 ```
 
